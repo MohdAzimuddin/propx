@@ -9,7 +9,7 @@ const WelcomePage = () => {
           <p className="text-gray-600 text-md">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </p>
-
+ 
           <div className="flex flex-col gap-2 mt-6">
             {/* Create Account Button */}
             <button
