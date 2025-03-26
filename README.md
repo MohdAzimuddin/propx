@@ -41,11 +41,11 @@ propX-login-form/
 ## 🔧 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MohdAzimuddin/propX-login-form.git
+[  https://github.com/MohdAzimuddin/propx.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd propX-login-form
+   cd propx
    ```
 3. Install dependencies:
    ```sh
