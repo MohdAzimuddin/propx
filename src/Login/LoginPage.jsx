@@ -51,7 +51,7 @@ const LoginPage = () => {
               />
             </label>
             {/*Password*/}
-
+ 
             <label htmlFor="password" className="flex flex-col">
               <p className="text-blue-600 text-xs font-bold">Password</p>
               <input
