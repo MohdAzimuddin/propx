@@ -105,7 +105,7 @@ const CreateAccount = () => {
               required
             />
           </label>
-
+ 
           {/* Company Name */}
           <label htmlFor="company" className="flex flex-col">
             <p className="text-blue-600 text-xs font-bold relative">
