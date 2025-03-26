@@ -8,7 +8,7 @@ const AccountSettings = () => {
     email = "user@example.com",
     profileImage,
   } = location.state || {};
-
+ 
   return (
     <div className="w-full h-screen flex justify-center items-center pt-8 bg-neutral-100">
       <div className="w-96 h-screen max-h-screen border border-gray-300 bg-white rounded-lg shadow-md">
